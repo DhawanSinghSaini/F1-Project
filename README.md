@@ -1,4 +1,4 @@
-# 🏎️ F1 APEX Analytics Capstone
+# 🏎️ F1 APEX Analytics 
 
 A full-stack, machine-learning-powered telemetry visualization engine for Formula 1 data.
 

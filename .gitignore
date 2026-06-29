@@ -1,0 +1,25 @@
+# ── Root ───────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
+*.env
+.env.local
+.env.*.local
+
+# ── Frontend ────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# ── Backend ─────────────────────────────────
+backend/node_modules/
+backend/cache/
+backend/.env
+
+# ── Python ──────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
